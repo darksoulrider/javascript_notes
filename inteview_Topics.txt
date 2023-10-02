@@ -1,0 +1,67 @@
+Javscripts =>
+    1. variable | done
+    2. strings | done
+        1. 
+        2. 
+        3. 
+        4. 
+        
+    3. array
+    4. fucntions
+    5. classes
+    6. callbacks
+    7. Advance Topics
+        1. algorithms names
+        2. DSA Questions
+        3. closures [ cehck lexical way as well ]
+            -> it reference a variable from outer scrop to inner scope
+        4. Polyfills
+        5. currying
+        6. scopes 
+        
+    8. Event Driven-
+        1. Buggling - Capturing , Deligation
+    9. General
+        1. use of strict keywords
+        2. threading
+        3. 
+        
+
+
+React Js ->
+    1. 
+    2. 
+
+NodeJs =>
+    1. expressJs
+        1. API MAKING
+        2. MIDDLEWARE
+        3. ROUTES
+        4. extra topics
+    2. mongoose | MONGO_DB
+        1. database schema
+        2. CRUD
+        3. diff
+        4. extra topics
+    3. MYSQL
+        1. database
+        2. CRUD
+        3. Types of Query and  all [ order , sort, limit, where,]
+        4. all keywords of  sql
+    4. Advance Topics
+        1. Why use of technolgy w.r.t other tech
+        2. advantages and disadvntages
+        3. loadsh [ debounce and throtling ]
+
+    5. 
+
+
+
+
+Questions ->
+1. Explain Hoisting in javascript.
+2. Implicit Type Coercion in javascript.
+3. NaN property in JavaScript?
+4. What are callbacks?5.  
+5. What is memoization?
+6. 
